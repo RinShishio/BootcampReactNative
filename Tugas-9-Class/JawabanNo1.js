@@ -34,5 +34,8 @@ class Animal {
   console.log(sungokong.name);
   console.log(sungokong.legs);
   sungokong.yell() // "Auooo"
+  
   var kodok = new Frog("buduk")
+  console.log(kodok.name);
+  console.log(kodok.legs);
   kodok.jump() // "hop hop" 
