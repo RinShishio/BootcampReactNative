@@ -18,7 +18,7 @@ export default function Telegram() {
                     </Text>
                 </View>
                 <View>
-                    <Image style = {styles.avatarDrawwer} source={require('./asset/drawwer.png')}/>
+                    <Image style = {styles.avatarDrawwer} source={require('./asset/search.png')}/>
                 </View>
         
             </View>
