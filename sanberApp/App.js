@@ -4,9 +4,10 @@ import { StyleSheet, Text, View } from 'react-native';
 import Login from './Tugas/Tugas13/Login';
 import About from './Tugas/Tugas13/About';
 import Telegram from './Tugas/Tugas12/Telegram';
+import RestApi from './Tugas/Tugas14/RestApi';
 export default function App() {
   return (
-     <Login/>
+     <RestApi/>
   );
 }
 const styles = StyleSheet.create({
