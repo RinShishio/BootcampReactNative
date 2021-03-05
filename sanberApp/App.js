@@ -5,9 +5,10 @@ import Login from './Tugas/Tugas13/Login';
 import About from './Tugas/Tugas13/About';
 import Telegram from './Tugas/Tugas12/Telegram';
 import RestApi from './Tugas/Tugas14/RestApi';
+import Tugas15 from './Tugas/Tugas15/index'
 export default function App() {
   return (
-     <RestApi/>
+     <Tugas15/>
   );
 }
 const styles = StyleSheet.create({
